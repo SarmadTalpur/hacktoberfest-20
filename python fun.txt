@@ -1,9 +1,16 @@
 Change Python2 code to Python3
 
 print("Hello")
+print 'Hello' , 'World'
+print 'why oh why'
+
+Change Python2 code to Python3
+
+print("Hello")
 main
 
 print("its LITTT");
 
 print 'Hello' , 'World'
  main
+
